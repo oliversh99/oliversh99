@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 
+## About Me
 I am a student currently enrolled in the UCSD Full-Stack coding boot-camp and its My first class in programming
 
 
