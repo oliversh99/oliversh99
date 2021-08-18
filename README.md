@@ -9,6 +9,8 @@ I am a student currently enrolled in the UCSD Full-Stack coding boot-camp and it
 - HTML 5
 - CSS 3
 - JavaScript
+- Bootstarp
+- Tailwind
 - jQuery
 - CSS Frameworks (Bootstrap, Tailwind)
 - Web APIs
