@@ -5,7 +5,7 @@ I am a student currently enrolled in the UCSD Full-Stack coding boot-camp and it
 
 
 
-Skills
+#Skills
 HTML 5
 CSS 3
 JavaScript
