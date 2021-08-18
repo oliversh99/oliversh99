@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+I am a student currently enrolled in the UCSD Full-Stack coding boot-camp and its My first class in programming
+
 <!--
 **oliversh99/oliversh99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
