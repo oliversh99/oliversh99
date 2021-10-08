@@ -16,6 +16,7 @@ I am a student currently enrolled in the UCSD Full-Stack coding boot-camp and it
 - CSS Frameworks (Bootstrap, Tailwind)
 - Web APIs
 - Node.js
+- MySQL
 
 <!--
 **oliversh99/oliversh99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
